@@ -1,0 +1,10 @@
+{
+  "MANUFACTURER": "Google",
+  "BRAND": "google",
+  "DEVICE": "bluejay",
+  "PRODUCT": "bluejay_beta",
+  "MODEL": "Pixel 6a",
+  "FINGERPRINT": "google/bluejay_beta/bluejay:CANARY/ZP11.261016.008/16754936:user/release-keys",
+  "SECURITY_PATCH": "2026-11-05",
+  "FIRST_API_LEVEL": "32"
+}
